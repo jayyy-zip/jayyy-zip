@@ -1,150 +1,351 @@
-# Hi, I'm Jay Dhokne 👋
+<!-- HERO -->
 
-### IT Student · Developer · Creative Technologist · Builder
+<div align="center">
 
-I like turning real-world problems into practical digital products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=JAY%20DHOKNE&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20AI%20%7C%20SOFTWARE%20%7C%20CIVIC%20TECH&descAlignY=60&descSize=16" width="100%"/>
 
-My work sits at the intersection of **software engineering, AI, data, product thinking, and user experience**. I learn by building — from small frontend experiments to full-stack, AI-assisted systems designed around real users and real constraints.
+<br/>
 
-<p align="left">
-  <a href="https://github.com/jayyy-zip"><img src="https://img.shields.io/badge/GitHub-jayyy--zip-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://ner-landslide-alert.onrender.com"><img src="https://img.shields.io/badge/Live-Landslide%20Alert-0b5cab?style=for-the-badge" alt="Landslide Alert" /></a>
-  <a href="https://stadiumflow.vercel.app/"><img src="https://img.shields.io/badge/Live-StadiumFlow-111827?style=for-the-badge" alt="StadiumFlow" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=I+build+things+that+solve+real+problems.;AI+%2B+Product+%2B+Creative+Engineering.;From+idea+%E2%86%92+prototype+%E2%86%92+product.;Currently+building+%26+breaking+things+%F0%9F%9A%80" />
 
----
+<br/><br/>
 
-## 🚀 What I'm Building
+<a href="https://github.com/jayyy-zip">
+<img src="https://img.shields.io/badge/GitHub-jayyy--zip-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/jayyy-zip">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=jayyy-zip&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 
-I’m especially interested in projects where technology has to do more than just “work” — it has to be **useful, understandable, resilient, and easy to act on**.
-
-### 🌧️ NER — Landslide Alert & Response System
-
-**AI-assisted disaster-risk monitoring for vulnerable highway corridors in Northeast India.**
-
-A prototype built around a 25 km NH-27 pilot corridor near Jatinga–Haflong, combining rainfall, terrain, historical landslide information, GIS road segmentation, location-aware risk scoring, citizen hazard reports, and officer workflows.
-
-**Built with:** React · Vite · Tailwind CSS · Leaflet · Turf.js · Supabase · PostgreSQL · Python · scikit-learn
-
-[Explore NER →](https://github.com/jayyy-zip/NER-Landslide-Alert)
-
-### ⚽ StadiumFlow AI
-
-**AI-powered smart stadium companion for FIFA World Cup 2026.**
-
-A multi-role stadium operating concept connecting fans, organizers, volunteers, and staff through a centralized AI context engine. Features include crowd intelligence, navigation, concessions, match-day planning, emergency assistance, volunteer deployment, operations KPIs, and offline-first fallbacks.
-
-**Built with:** JavaScript ES Modules · Gemini 2.5 Flash · Firebase · Google Maps · Node.js testing
-
-[Explore StadiumFlow →](https://github.com/jayyy-zip/stadiumflow) · [Live prototype →](https://stadiumflow.vercel.app/)
-
-### 🌱 EcoTrack
-
-A lightweight web experience focused on **carbon-footprint awareness and sustainable habits**, with a mobile-first interface, accessibility considerations, local app behavior, and a clear user journey from tracking to action.
-
-[Explore EcoTrack →](https://github.com/jayyy-zip/ecotracker7777)
-
-### 📊 Marks Analyzer
-
-A practical frontend project for turning simple inputs into a clear performance dashboard — total, percentage, grade classification, and responsive UI.
-
-**Built with:** HTML · CSS · JavaScript
-
-[Explore the project →](https://github.com/jayyy-zip/marks-analyzer-web-app)
+</div>
 
 ---
 
-## 🧠 How I Like to Work
+# ⚡ THE BUILDER
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│   I don't just learn technology.                        │
+│   I learn by BUILDING.                                   │
+│                                                          │
+│   💡 Idea        →      🧠 Think                         │
+│        ↓                                                 │
+│   🛠️ Prototype   →      🧪 Experiment                    │
+│        ↓                                                 │
+│   🚀 Ship        →      🔁 Improve                       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+I'm an **IT student, developer and creative technologist** interested in building products where **technology meets real-world problems**.
+
+My projects range from **AI-powered civic technology and disaster response** to smart infrastructure, sustainability and interactive web experiences.
+
+> **My goal isn't to build more software.
+> It's to build software that matters.**
+
+---
+
+# 🗳️ FEATURED PROJECT
+
+<div align="center">
+
+## 🗳️ VoteSmart — Election Assistant
+
+### **Making elections easier to understand, navigate & participate in.**
+
+<img src="https://img.shields.io/badge/AI-ELECTION%20ASSISTANT-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CIVIC-TECH-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INDIA-ELECTIONS-FF9933?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-FACC15?style=for-the-badge&logoColor=black"/>
+
+</div>
+
+### 🎯 The idea
+
+Elections can be confusing — especially for **first-time voters**.
+
+VoteSmart is designed as a digital election companion that brings essential election information and guidance into one accessible experience.
+
+```text
+                    🗳️ VOTER
+                       │
+          ┌────────────┼────────────┐
+          ↓            ↓            ↓
+       🤖 AI        📍 LOCATION    📚 INFO
+     Assistant      & Booth        & Guidance
+          │            │            │
+          └────────────┼────────────┘
+                       ↓
+                 🧠 VOTESMART
+                       ↓
+              INFORMED DECISION
+                       ↓
+                  🗳️ PARTICIPATION
+```
+
+### ✨ Core Experience
+
+|         🤖 AI Assistant        |      📍 Booth Support     |     📚 Voter Guidance    |
+| :----------------------------: | :-----------------------: | :----------------------: |
+| Ask election-related questions |  Find voting information  |  Understand the process  |
+|    Conversational interface    | Location-aware assistance | First-time voter support |
+|     Simplified explanations    |    Election navigation    |  Important requirements  |
+
+### 💭 Why I built it
+
+Technology shouldn't just make entertainment easier.
+
+It can also make **democracy easier to navigate**.
+
+**VoteSmart is my exploration of what civic technology can look like when it's designed around the voter.**
+
+---
+
+# 🌧️ NER
+
+## Landslide Alert & Response System
+
+**AI + GIS + Disaster Management**
+
+A location-aware disaster-risk platform designed around vulnerable highway corridors in Northeast India.
+
+The prototype combines:
+
+`Rainfall` + `Terrain` + `Historical Landslides` + `GIS` + `Citizen Reports`
+
+→ **Risk Assessment**
+
+→ **Citizen Alerts + Officer Response**
+
+### 🧠 Interesting part
+
+Instead of treating AI prediction as the entire product:
+
+```text
+PREDICT
+   ↓
+LOCATE
+   ↓
+UNDERSTAND
+   ↓
+ALERT
+   ↓
+REPORT
+   ↓
+RESPOND
+```
+
+**Stack:** React · Vite · Tailwind · Leaflet · Turf.js · Supabase · PostgreSQL · Python · scikit-learn
+
+🔗 **[Explore NER →](https://github.com/jayyy-zip/NER-Landslide-Alert)**
+
+---
+
+# ⚽ StadiumFlow AI
+
+### Smart Stadium OS · FIFA World Cup 2026
+
+A multi-role AI stadium experience connecting:
+
+```text
+🙋 FAN
+   │
+📊 ORGANIZER
+   │
+🦺 VOLUNTEER
+   │
+👷 STAFF
+   │
+   ↓
+🧠 AI CONTEXT ENGINE
+   ↓
+⚡ REAL-TIME DECISIONS
+```
+
+Features include:
+
+* 🤖 Gemini-powered AI assistant
+* 🗺️ Smart navigation
+* 👥 Crowd intelligence
+* 🍔 Smart concessions
+* 🚨 Emergency assistance
+* 📊 Organizer command center
+* 🦺 Volunteer task management
+* 🌱 Sustainability tracking
+* 📡 Offline-first fallbacks
+
+**Stack:** JavaScript · Gemini · Firebase · Google Maps · ES Modules
+
+🔗 **[Explore StadiumFlow →](https://github.com/jayyy-zip/stadiumflow)**
+🚀 **[Live Prototype →](https://stadiumflow.vercel.app/)**
+
+---
+
+# 🌱 EcoTrack
+
+### **Your carbon footprint → your next action.**
+
+A sustainability-focused web experience designed around tracking carbon impact and building better everyday habits.
+
+```text
+TRACK 🌍
+   ↓
+UNDERSTAND 📊
+   ↓
+IMPROVE 🌱
+   ↓
+REPEAT 🔄
+```
+
+**Stack:** HTML · CSS · JavaScript
+
+🔗 **[Explore EcoTrack →](https://github.com/jayyy-zip/ecotracker7777)**
+
+---
+
+# 🧪 OTHER EXPERIMENTS
+
+<div align="center">
+
+| Project                  | Focus                                 |
+| :----------------------- | :------------------------------------ |
+| 📊 **Marks Analyzer**    | Frontend · Logic · Data visualization |
+| 🦇 **Batman Reminder**   | Interactive web experiment            |
+| ✈️ **TripNest**          | Travel product concept                |
+| 🎨 **Portfolio.dev**     | Personal portfolio experimentation    |
+| 🗳️ **Election Project** | Civic-tech exploration                |
+
+</div>
+
+---
+
+# 🧰 MY TECH STACK
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
+
+### ⚛️ Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
+
+### 🧠 AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+<br/>
+
+`Gemini` · `scikit-learn` · `REST APIs` · `GIS` · `PostgreSQL`
+
+### ☁️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,supabase,vercel,vscode" />
+
+</div>
+
+---
+
+# 🧠 HOW I THINK
+
+<div align="center">
+
+### **PROBLEM > TECHNOLOGY**
+
+</div>
+
+I don't start with:
+
+> *"Which framework should I use?"*
+
+I start with:
+
+> **"What problem are we actually solving?"**
+
+Then:
 
 ```text
 Problem
-  ↓
-Understand the user
-  ↓
-Build a focused prototype
-  ↓
-Test the idea
-  ↓
-Improve the experience
-  ↓
-Add the right technology
-  ↓
-Ship
+   ↓
+Users
+   ↓
+Constraints
+   ↓
+Prototype
+   ↓
+Technology
+   ↓
+Testing
+   ↓
+Ship 🚀
 ```
 
-I’m less interested in building something just because a technology is trending, and more interested in **why the technology belongs in the solution**.
+---
+
+# 📈 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayyy-zip&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=2563EB&text_color=94A3B8&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyy-zip&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayyy-zip&theme=transparent&hide_border=true&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8" width="700"/>
+
+</div>
 
 ---
 
-## 🛠️ Toolbox
+# 🚀 CURRENTLY
 
-### Languages
-
-`JavaScript` · `Python` · `HTML` · `CSS`
-
-### Frontend & UI
-
-`React` · `Vite` · `Tailwind CSS` · `Leaflet` · `Responsive Web Design`
-
-### Backend / Data
-
-`Supabase` · `PostgreSQL` · `Firebase` · `REST APIs`
-
-### AI / ML
-
-`Gemini` · `scikit-learn` · `Random Forest` · `AI-assisted product workflows`
-
-### Tools & Workflow
-
-`Git` · `GitHub` · `Vercel` · `Render` · `Streamlit`
-
-### Product Interests
-
-`AI Products` · `Data-driven Systems` · `Disaster Tech` · `Smart Infrastructure` · `Sustainability` · `Human-centered UX`
+```text
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│  🧠 Learning        AI + Systems + Product       │
+│                                                   │
+│  🛠️ Building        Real-world AI products        │
+│                                                   │
+│  🧪 Exploring       CivicTech + GovTech           │
+│                                                   │
+│  🎯 Improving       Engineering + UX              │
+│                                                   │
+│  🚀 Shipping        More things that matter       │
+│                                                   │
+└───────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🏆 Projects That Best Represent Me
+# 🤝 LET'S BUILD SOMETHING
 
-| Project                     | What it shows                                                     |
-| --------------------------- | ----------------------------------------------------------------- |
-| **NER Landslide Alert**     | AI/ML + GIS + real-world constraints + citizen/authority workflow |
-| **StadiumFlow AI**          | AI product architecture + simulation + multi-role UX + resilience |
-| **EcoTrack**                | Sustainability product thinking + frontend engineering            |
-| **Marks Analyzer**          | Foundations in programming, logic, UI, and deployment             |
-| **Portfolio / experiments** | Iterative product development and visual storytelling             |
+I'm interested in collaborating on:
 
----
+**AI Products · CivicTech · GovTech · Startups · Developer Tools · Social Impact · Experimental Interfaces**
 
-## 📌 What I'm Learning
+If you're building something interesting, let's talk.
 
-* Building better AI-assisted products instead of isolated AI demos
-* Designing systems that remain useful under unreliable network conditions
-* Combining geospatial data with clear decision-support interfaces
-* Improving software architecture, testing, and deployment practices
-* Turning hackathon prototypes into stronger, more maintainable products
+<div align="center">
 
----
+### **BUILD → BREAK → LEARN → REBUILD → SHIP**
 
-## 🌱 Beyond Code
+<br/>
 
-I enjoy the parts of technology that sit between engineering and creativity: **product ideas, presentations, visual communication, startup thinking, and making complex systems feel simple.**
+<a href="https://github.com/jayyy-zip">
+<img src="https://img.shields.io/badge/GitHub-jayyy--zip-111827?style=for-the-badge&logo=github"/>
+</a>
 
-I’m also drawn to entrepreneurship because the best technical projects usually start with a better question:
+<br/><br/>
 
-> **What problem is actually worth solving?**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
 
----
-
-## 🤝 Let's Connect
-
-If you’re working on **AI, product development, software, startups, or socially useful technology**, I’m always interested in learning from good builders and collaborating on ambitious ideas.
-
-📍 India
-💻 GitHub: [@jayyy-zip](https://github.com/jayyy-zip)
-
----
-
-<p align="center">
-  <i>Build useful things. Learn in public. Keep improving.</i>
-</p>
+</div>
